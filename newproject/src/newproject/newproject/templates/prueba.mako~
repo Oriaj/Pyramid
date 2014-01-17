@@ -1,0 +1,12 @@
+<html>
+<head>
+    <title>Zodiac</title>
+</head>
+ 
+<body>
+    <h1>Zodiac</h1>
+    Tu signo del zodiaco es: ${zodiac} imagenes src="$./{images2}" <br />
+    ${frase}
+</body>
+ 
+</html>
